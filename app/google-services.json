@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "721271601477",
+    "firebase_url": "https://pruebaloginfirebase-df82e-default-rtdb.firebaseio.com",
+    "project_id": "pruebaloginfirebase-df82e",
+    "storage_bucket": "pruebaloginfirebase-df82e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721271601477:android:8f3176e2cfa2785a82662c",
+        "android_client_info": {
+          "package_name": "com.example.pruebaloginfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8qZ_MKV-w67phSaHDBgbg5NluuMUg2bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
