@@ -36,7 +36,7 @@ public class activityRegistro extends AppCompatActivity {
             public void onClick(View view) {
 
                 database = FirebaseDatabase.getInstance();
-                reference = database.getReference("users");
+                reference = database.getReference("Usuarios");
 
                 String username = nombreUsuario.getText().toString();
                 String email = correo.getText().toString();
